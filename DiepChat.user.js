@@ -3,8 +3,8 @@
 // @namespace    https://tampermonkey.net/
 // @icon         https://diep.chat/assets/GeneralAssets/favicon.png
 // @author       𝗗𝗶𝗲𝗽𝗖𝗵𝗮𝘁 𝗧𝗲𝗮𝗺
-// @version      1.01
-// @description  Beta Version 1.01 Release
+// @version      1.1
+// @description  Version 1.1 Release
 // @match        https://diep.io/*
 // @require      https://diep.chat/DiepChat
 // @run-at       document-start
