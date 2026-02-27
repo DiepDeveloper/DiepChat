@@ -3,11 +3,12 @@
 // @namespace    https://tampermonkey.net/
 // @icon         https://diep.chat/assets/GeneralAssets/favicon.png
 // @author       𝗗𝗶𝗲𝗽𝗖𝗵𝗮𝘁 𝗧𝗲𝗮𝗺
-// @version      1.1
-// @description  Version 1.1 Release
+// @version      1.2
+// @description  Version 1.2
 // @match        https://diep.io/*
-// @require      https://diep.chat/DiepChat
 // @run-at       document-start
+// @require      https://diep.chat/api
+// @require      https://diep.chat/diepchatv2
 // ==/UserScript==
 
 // ================================================== LICENSE ================================================== //
